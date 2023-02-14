@@ -104,7 +104,7 @@ function Login() {
 
       <div className="form-main">
         <form onSubmit={(e) => (e.preventDefault())} className="form-user">
-          <h3>Student Login</h3>
+          <h3>tutor Login</h3>
           <div className="mb-3">
             <label>Email address*</label>
             <input
